@@ -6,7 +6,9 @@ This is my undergraduate thesis work. This thesis explores the use of time serie
 ![Thesis Flowchart drawio(1)(2)](https://user-images.githubusercontent.com/82276211/226086458-bf41bd42-c5d4-4d21-a885-422e70a84ee2.png)
 Fig 1: Work Flow of the proposed method.
 
+
 ![model(2)](https://user-images.githubusercontent.com/82276211/226086524-88d1f96b-eafe-47e3-84aa-369747fa5c28.png)
+
 Fig 2: Proposed Model Architecture
 
 
